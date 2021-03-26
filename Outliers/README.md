@@ -6,9 +6,9 @@
  2) Data points that falls outside of 3 standard deviation. We can use  z score if the z score outside of 2 standard deviation.
  
  **Impacts of having outliers in dataset:**
- >It causes various problems during our statistical analysis.
- >it may cause a significant impact on the mean and standard deviation.
+ > It causes various problems during our statistical analysis.
+ > it may cause a significant impact on the mean and standard deviation.
  
  **Reason for outliers exist in data set:**
- >Variability in data
- >An experimental measurement error.
+ > Variability in data
+ > An experimental measurement error.
