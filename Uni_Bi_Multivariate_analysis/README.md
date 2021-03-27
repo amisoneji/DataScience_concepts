@@ -1,6 +1,6 @@
 The number of variables of interest featured by the data classifies it as univariate, bivariate, or multivariate
 
-** Univariate Analysis **:
+**Univariate Analysis**:
 ___________________________________________________________________________________________________________________________________________
 
 The key fact is that in univariate only one variable is involved.
