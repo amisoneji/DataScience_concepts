@@ -31,5 +31,5 @@ or whether there are differences between two variables and the significance of t
 **Multivariate Analysis:**
 ___________________________________________________________________________________________________________________________________________
 
-Multivariate analysis us analysing more than two features.
-Analysis differ as that variables are depends on eachother or how much they will affect the prediction either they are highly corelated or not dpendent on each other.
+Multivariate analysis as analyzing more than two features.
+Analysis differ as that variables are depends on each other or how much they will affect the prediction either they are highly correlated or not dependent on each other.
