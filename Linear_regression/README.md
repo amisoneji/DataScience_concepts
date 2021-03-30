@@ -19,6 +19,7 @@ y = Real scattered point
 
 Our goal is to reach global minima (when slop will become zero)
 In order to get the lowest error value, we need to adjust the weights and to reach the smallest possible error. This is because the result of a lower error between the actual and the predicted values means the algorithm has done a good job in learning. Gradient descent is an efficient optimization algorithm that attempts to find a local or global minimum of a function.
+
 **Convergence Theorem**:
 To solve for the gradient, we iterate through our data points using our new weight and bias values and compute the partial derivatives. This new gradient tells us the slope of our cost function at our current position (current parameter values) and the direction we should move to update our parameters.(the m value should subtract with derivative of m with respect to m multiple by  α)
 
