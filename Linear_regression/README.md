@@ -14,7 +14,9 @@ The primary set-up for learning neural networks is to define a cost function (al
 The goal is to then find a set of weights and biases that minimizes the cost. One common function that is often used is the mean squared error, which measures the difference between the actual value of y and the estimated value of y (the prediction).
 
 ŷ =1/2m∑_(i=1)^m(ŷ –y)2
+
 ŷ = The point of best fit line that we predict
+
 y = Real scattered point
 
 Our goal is to reach global minima (when slop will become zero)
