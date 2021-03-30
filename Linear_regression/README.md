@@ -1,10 +1,10 @@
 **Linear Regression:**
 
--From linear regression will try to create best fit line such that Best line indicate prediction from the features.
--In linear Regression if one feature(unit change in x)changes  for that change what prediction parameter(feature or target ) will change(change in y) and that changes what slop occur(m)(liner equation for one feature :y=mx+c).
--We try to draw multiple fit lines for data & minimize the distance between fit line and actual data.
--The distance from fit line & point is simply called as error and if we sum all the errors for our scattered data points  the error must be minimal error, and in such case that fit line is our best fit line for model.
--That best fit line give us some value of m (slope) & intercept ( c ).
+- From linear regression will try to create best fit line such that Best line indicate prediction from the features.
+- In linear Regression if one feature(unit change in x)changes  for that change what prediction parameter(feature or target ) will change(change in y) and that changes what slop occur(m)(liner equation for one feature :y=mx+c).
+- We try to draw multiple fit lines for data & minimize the distance between fit line and actual data.
+- The distance from fit line & point is simply called as error and if we sum all the errors for our scattered data points  the error must be minimal error, and in such case that fit line is our best fit line for model.
+- That best fit line give us some value of m (slope) & intercept ( c ).
 The error equation:
 
 MSE =1/n∑_(i=1)^n(ŷi –yi)2
