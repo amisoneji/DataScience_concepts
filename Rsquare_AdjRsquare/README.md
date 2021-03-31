@@ -5,6 +5,7 @@ In regression model the way of checking accuracy, the techniques used are called
 r2  =1-(ssres)/(ssmean)
 
 ssres = sum of residual(error)
+
 ssmean=sum of average 
 - if R2 is nearer to 1 the line is best fitted line.
 - if R2<0  this value only occurs when best fitline worser then average best fit line.
