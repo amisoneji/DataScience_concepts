@@ -1,6 +1,6 @@
 **Hypothesis test**
 
-In hypothesis testing we evaluate two mutual exclusive statements on population using sample data
+In hypothesis testing we evaluate two mutual exclusive statements on population using sample data.
 
 Steps:
 1) We have to make initial assumption (H0 –null hypothesis)
